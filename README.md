@@ -15,8 +15,8 @@ Project ini merupakan hands-on dari Mini Bootcamp GDSC Telkom University bersama
 2. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/repo.git
-   cd repo
+   git clone https://github.com/dapraws/ToDoApp-Flutter.git
+   cd ToDoApp-Flutter
    ```
 
 3. Install dependensi:
