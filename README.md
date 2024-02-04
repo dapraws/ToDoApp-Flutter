@@ -7,7 +7,7 @@ Project ini merupakan hands-on dari Mini Bootcamp GDSC Telkom University bersama
 
 - Add, Edit, dan Delete
 - Database lokal menggunakan Hive
-- UI yang sederhana
+- UI simpel
 
 ## Instalasi
 
