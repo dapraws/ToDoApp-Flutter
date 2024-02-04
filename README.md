@@ -32,3 +32,13 @@ Project ini merupakan hands-on dari Mini Bootcamp GDSC Telkom University bersama
    ```
 
 ## Screenshot
+
+![ss1](https://github.com/dapraws/ToDoApp-Flutter/assets/122019775/bf1ed307-c4bf-45b5-8590-3a94107ed025)
+![ss2](https://github.com/dapraws/ToDoApp-Flutter/assets/122019775/907f8de3-84b3-4292-b36c-d1bccea9202a)
+![ss3](https://github.com/dapraws/ToDoApp-Flutter/assets/122019775/4ed7454c-cf77-4802-adb3-bce562ab38ff)
+![ss4](https://github.com/dapraws/ToDoApp-Flutter/assets/122019775/819ff970-ed15-41f3-962f-88fcf319a1ac)
+
+
+
+
+
